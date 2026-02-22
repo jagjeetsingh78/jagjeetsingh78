@@ -76,7 +76,7 @@
 
 - 🔗 Portfolio: https://www.jagjeetsingh.live
 - 💼 LinkedIn: https://linkedin.com/in/jagjeet-singh-3b2249263
-- 📧 Email: your-email@example.com
+- 📧 Email: workforjagjeet@gmail.com
 
 ---
 
