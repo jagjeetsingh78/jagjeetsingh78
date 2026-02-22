@@ -19,13 +19,14 @@
 - Java
 - Python
 - JavaScript
-- SQL
-
-### 📱 Mobile Development
+- 
+### 🖥 Frontend Development
+- React
 - Flutter
 - Firebase
 - RevenueCat
 - REST APIs
+  
 
 ### 🖥 Backend Development
 - FastAPI
